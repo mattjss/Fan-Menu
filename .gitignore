@@ -13,5 +13,10 @@ DerivedData/
 .build/
 .swiftpm/
 
+# Node / Vite
+node_modules/
+dist/
+*.tsbuildinfo
+
 # macOS
 .DS_Store
