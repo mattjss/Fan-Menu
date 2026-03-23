@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		16D2A84A1F25977C6E4577E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16435E8DC67F80F92039B915 /* ContentView.swift */; };
 		3C957616B85DCDA79F9D73A6 /* FanMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FCD9CD38D346E9A83ED22D5 /* FanMenuView.swift */; };
+		79700D2A2BE3EAD71CF254D2 /* FigmaFanTokens.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CEBE48BFDC56B211AA31FAE /* FigmaFanTokens.swift */; };
 		89EDE65226521AB60E80AF94 /* FanMenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F2A27B0A300405A06A10C03 /* FanMenuItem.swift */; };
 		CFE2F1F12EC10D06A65C9D53 /* FanMenuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1BA20163180F82D8BF9831D /* FanMenuApp.swift */; };
 		DA1F2D47750750A548E7A57A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E8964BEF2EB99DE40684A98 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 		16435E8DC67F80F92039B915 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1E8964BEF2EB99DE40684A98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FCD9CD38D346E9A83ED22D5 /* FanMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FanMenuView.swift; sourceTree = "<group>"; };
+		6CEBE48BFDC56B211AA31FAE /* FigmaFanTokens.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigmaFanTokens.swift; sourceTree = "<group>"; };
 		A1BA20163180F82D8BF9831D /* FanMenuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FanMenuApp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -32,6 +34,7 @@
 				A1BA20163180F82D8BF9831D /* FanMenuApp.swift */,
 				0F2A27B0A300405A06A10C03 /* FanMenuItem.swift */,
 				5FCD9CD38D346E9A83ED22D5 /* FanMenuView.swift */,
+				6CEBE48BFDC56B211AA31FAE /* FigmaFanTokens.swift */,
 			);
 			path = FanMenu;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 				CFE2F1F12EC10D06A65C9D53 /* FanMenuApp.swift in Sources */,
 				89EDE65226521AB60E80AF94 /* FanMenuItem.swift in Sources */,
 				3C957616B85DCDA79F9D73A6 /* FanMenuView.swift in Sources */,
+				79700D2A2BE3EAD71CF254D2 /* FigmaFanTokens.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
