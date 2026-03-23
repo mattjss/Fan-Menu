@@ -1,6 +1,6 @@
 import SwiftUI
 
-/// Radial “fan” menu: the trigger stays fixed; items arc outward with staggered spring motion.
+/// Radial fan menu: the trigger stays fixed; items arc outward with staggered spring motion.
 struct FanMenuView: View {
     let items: [FanMenuItem]
 
