@@ -1,0 +1,21 @@
+name: FanMenu
+options:
+  bundleIdPrefix: com.mattjss
+  deploymentTarget:
+    iOS: "18.0"
+  developmentLanguage: en
+targets:
+  FanMenu:
+    type: application
+    platform: iOS
+    sources:
+      - path: FanMenu
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: com.mattjss.fanmenu
+      CURRENT_PROJECT_VERSION: 1
+      MARKETING_VERSION: 1.0
+      GENERATE_INFOPLIST_FILE: YES
+      INFOPLIST_KEY_CFBundleDisplayName: Fan Menu
+      INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
+      TARGETED_DEVICE_FAMILY: 1,2
+      SWIFT_VERSION: "6.0"
